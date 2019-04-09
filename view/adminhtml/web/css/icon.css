@@ -1,0 +1,12 @@
+.admin__menu .level-0.item-jsutariya > a:before {
+    content: url('../images/menu.png');
+}
+.jsutariya-configuration:before {
+    content: url('../images/configuration.ico');
+    display: block;
+    width: 24px;
+    float: left;
+}
+.item-jsutariya .submenu-group-title {
+    display: block !important;
+}

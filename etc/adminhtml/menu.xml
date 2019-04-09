@@ -1,0 +1,6 @@
+<?xml version="1.0"?>
+<config xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:magento:module:Magento_Backend:etc/menu.xsd">
+    <menu>
+        <add id="JS_General::jsutariya" title="JSutariya" module="JS_General" sortOrder="100" resource="JS_General::jsutariya" />
+    </menu>
+</config>
